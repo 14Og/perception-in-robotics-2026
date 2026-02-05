@@ -57,8 +57,6 @@ Final project. Teams of 3-5 students solving an open project. The final project 
 You are encouraged to come up with your own project ideas, yet make sure to pass them by Prof. Ferrer before you submit your abstract
 
 Logistics:
-
-Logistics:
  * Ideally 3-5 students per project (the scope of multi-body projects must be commensurate).
  * Proposal: 1 page description of project + goals for milestone. This document describes the initial proposal and viability of the project.
  * Presentations: The presentation will be 10 minutes long; There will be some minutes for questions after the presentation.
